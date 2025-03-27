@@ -20,7 +20,8 @@ logError($conn, "Test error logged from logs.php.");
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-secondary">
         <div class="container">
-            <a class="navbar-brand" href="#">Error Logs | Raymart Magallanes</a>
+            <a class="navbar-brand">Error Logs</a>
+            <a href="profile.html" class="navbar-brand">Profile</a>
         </div>
     </nav>
     <div class="container mt-4">
